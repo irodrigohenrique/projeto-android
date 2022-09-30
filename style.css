@@ -98,9 +98,12 @@ nav > a{
     color: #fff;
     padding: 10px;
     text-decoration: none;
-    font-weight: bold;
+    font-weight: normal;
+    font-size: 21px;
     border-radius: 5px;
     transition-duration: 0.5s;
+    font-family: var(--fonte-destaque);
+
 }
 
 nav > a:hover{
